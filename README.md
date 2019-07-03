@@ -1,5 +1,11 @@
 # SleepvsAwakeVital
-a collection of 500 people's vitals while asleep vs when awake
+Vitals of 500 people while asleep vs while awake.
+parameters recorded
+Pulse Rate
+BP
+Body Temperature
+Respiratory Rate
+
 
 Creators of project
 Anusha Chattopadhyay
