@@ -1,4 +1,4 @@
-# SleepvsAwakeVital
+# SleepvsAwake
 Vitals of 500 people while asleep vs while awake.
 parameters recorded
 Pulse Rate
